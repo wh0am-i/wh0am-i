@@ -24,8 +24,8 @@
 <br>
 
 ## Conhecimentos:
-<a href="https://www.adobe.com/products/premiere.html">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />
+<a href="https://www.adobe.com/products/premiere.html" target="_blank">
+            <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.Zg3GcQTVaN_-_FJAX2oKUwHaHa%26pid%3DApi&f=1" />
           </a>
 <div>
 <a href="https://github.com/nonameeee6666">
