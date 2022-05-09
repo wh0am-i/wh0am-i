@@ -24,8 +24,7 @@
 <br>
 
 ## Conhecimentos:
-android appwrite arduino bash bootstrap codeigniter css3 electron figma git html5 illustrator java javascript linux photoshop unity
-
+            <i class="devicon-premierepro-plain colored"></i>
 MySql
 <div>
 <a href="https://github.com/nonameeee6666">
