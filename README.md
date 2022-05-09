@@ -30,6 +30,21 @@
           <a href="https://www.adobe.com/products/premiere.html" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="width: 40px"/>
           </a>
+          <a href="https://www.adobe.com/products/premiere.html" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" style="width: 40px"/>
+          </a>
+          <a href="https://www.adobe.com/products/premiere.html" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" style="width: 40px"/>
+          </a>
+          <a href="https://www.adobe.com/products/premiere.html" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="width: 40px"/>
+          </a>
+          <a href="https://www.adobe.com/products/premiere.html" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="width: 40px"/>
+          </a>
+          <a href="https://www.adobe.com/products/premiere.html" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="width: 40px"/>
+          </a>
           
           
           <br>
