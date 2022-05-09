@@ -60,6 +60,6 @@
     <br>
 <div>
 <a href="https://github.com/nonameeee6666">
-<img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonameeee6666&layout=compact&langs_count=7&theme=dracula"/>
-<img height="152em" src="https://github-readme-stats.vercel.app/api?username=nonameeee6666&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="151em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonameeee6666&layout=compact&langs_count=7&theme=dracula"/>
+<img height="151em" src="https://github-readme-stats.vercel.app/api?username=nonameeee6666&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
