@@ -27,38 +27,38 @@
 <a href="https://www.adobe.com/products/premiere.html" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" style="width: 40px"/>
           </a>
-          <a href="https://www.adobe.com/products/premiere.html" target="_blank">
+          <a href="https://www.adobe.com/br/products/photoshop.html" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="width: 40px"/>
           </a>
-                    <a href="https://www.adobe.com/products/premiere.html" target="_blank">
+                    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" style="width: 40px"/>
           </a>
-          <a href="https://www.adobe.com/products/premiere.html" target="_blank">
+          <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" style="width: 40px"/>
           </a>
-          <a href="https://www.adobe.com/products/premiere.html" target="_blank">
+          <a href="https://java.com/" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="width: 40px"/>
           </a>
-          <a href="https://www.adobe.com/products/premiere.html" target="_blank">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="width: 40px"/>
-          </a>
-          <a href="https://www.adobe.com/products/premiere.html" target="_blank">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" style="width: 40px"/>
-          </a>
-                    <a href="https://www.adobe.com/products/premiere.html" target="_blank">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" style="width: 40px"/>
-          </a>
-                              <a href="https://www.adobe.com/products/premiere.html" target="_blank">
+                                        <a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" style="width: 40px"/>
           </a>
-                              <a href="https://www.adobe.com/products/premiere.html" target="_blank">
+                              <a href="https://www.python.org/" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="width: 40px"/>
+          </a>
+          <a href="https://www.javascript.com/" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="width: 40px"/>
+          </a>
+          <a href="https://www.arduino.cc/" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" style="width: 40px"/>
+          </a>
+                    <a href="https://www.raspberrypi.org/" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" style="width: 40px"/>
           </a>
           
           
   <br>
 <div>
 <a href="https://github.com/nonameeee6666">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonameeee6666&layout=compact&langs_count=7&theme=dracula"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=nonameeee6666&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonameeee6666&layout=compact&langs_count=7&theme=dracula"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=nonameeee6666&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
