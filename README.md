@@ -48,6 +48,9 @@
           <a href="https://www.javascript.com/" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="width: 40px"/>
           </a>
+                                                            <a href="https://www.lua.org/" target="_blank">
+            <img src="https://www.lua.org/images/luaa.gif" style="width: 40px"/>
+          </a>
           <a href="https://www.arduino.cc/" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" style="width: 40px"/>
           </a>
@@ -57,8 +60,8 @@
                               <a href="https://www.blender.org/" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" style="width: 40px"/>
           </a>
-                              <a href="https://ultimaker.com/software/ultimaker-cura" target="_blank">
-            <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.windowscentral.com%2Fsites%2Fwpcentral.com%2Ffiles%2Fstyles%2Flarge%2Fpublic%2Ffield%2Fimage%2F2018%2F09%2Fcura-logo.png%3Fitok%3Di3GsGvPj&f=1&nofb=1 style="width: 40px"/>
+                                        <a href="https://www.linux.org/" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" style="width: 40px"/>
           </a>
           
           
