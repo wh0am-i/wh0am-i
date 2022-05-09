@@ -24,7 +24,7 @@
 <br>
 
 ## Conhecimentos:
-            <i class="devicon-premierepro-plain colored"></i>
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">       
 MySql
 <div>
 <a href="https://github.com/nonameeee6666">
