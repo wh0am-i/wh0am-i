@@ -27,6 +27,12 @@
 <a href="https://www.adobe.com/products/premiere.html" target="_blank">
             <img src="https://icon-library.com/images/adobe-premiere-icon/adobe-premiere-icon-18.jpg" style="width: 40px"/>
           </a>
+          <a href="https://www.adobe.com/products/premiere.html" target="_blank">
+            <img src="https://cdn.freelogovectors.net/wp-content/uploads/2021/09/adobe-photoshop-logo-freelogovectors.net_.png" style="width: 40px"/>
+          </a>
+          
+          
+          <br>
 <div>
 <a href="https://github.com/nonameeee6666">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonameeee6666&layout=compact&langs_count=7&theme=dracula"/>
