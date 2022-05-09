@@ -24,9 +24,7 @@
 <br>
 
 ## Conhecimentos:
-<a
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" />
->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">  
 <div>
 <a href="https://github.com/nonameeee6666">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonameeee6666&layout=compact&langs_count=7&theme=dracula"/>
