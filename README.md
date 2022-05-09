@@ -49,7 +49,7 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="width: 40px"/>
           </a>
                                                             <a href="https://www.lua.org/" target="_blank">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svgf" style="width: 40px"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain.svg" style="width: 40px"/>
           </a>
           <a href="https://www.arduino.cc/" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" style="width: 40px"/>
@@ -64,7 +64,7 @@
             <img src="https://twotrees3d.com/wp-content/uploads/2021/05/two-trees-white-300x165.png" style="width: 40px"/>
           </a>
                                         <a href="https://www.linux.org/" target="_blank">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain.svg" style="width: 40px"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="width: 40px"/>
           </a>
           
           
