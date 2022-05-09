@@ -25,7 +25,7 @@
 
 ## Conhecimentos:
 <a href="https://www.adobe.com/products/premiere.html" target="_blank">
-            <img src="https://www.google.com.br/url?sa=i&url=https%3A%2F%2Ficon-library.com%2Ficon%2Fadobe-premiere-icon-12.html&psig=AOvVaw2JmGIHgONV_GKPkwg24v9x&ust=1652143583658000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLiyzdeY0fcCFQAAAAAdAAAAABAD" />
+            <img src="https://icon-library.com/images/adobe-premiere-icon/adobe-premiere-icon-18.jpg" />
           </a>
 <div>
 <a href="https://github.com/nonameeee6666">
