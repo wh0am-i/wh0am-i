@@ -28,7 +28,7 @@
             <img src="https://icon-library.com/images/adobe-premiere-icon/adobe-premiere-icon-18.jpg" style="width: 40px"/>
           </a>
           <a href="https://www.adobe.com/products/premiere.html" target="_blank">
-            <img src="https://cdn.freelogovectors.net/wp-content/uploads/2021/09/adobe-photoshop-logo-freelogovectors.net_.png" style="width: 40px"/>
+            <img src="https://w7.pngwing.com/pngs/657/442/png-transparent-adobe-brand-brands-logo-logos-photoshop-logos-brands-icon.png" style="width: 40px"/>
           </a>
           
           
