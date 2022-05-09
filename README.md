@@ -25,10 +25,10 @@
 
 ## Conhecimentos:
 <a href="https://www.adobe.com/products/premiere.html" target="_blank">
-            <img src="https://icon-library.com/images/adobe-premiere-icon/adobe-premiere-icon-18.jpg" style="width: 40px"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" style="width: 40px"/>
           </a>
           <a href="https://www.adobe.com/products/premiere.html" target="_blank">
-            <img src="https://w7.pngwing.com/pngs/657/442/png-transparent-adobe-brand-brands-logo-logos-photoshop-logos-brands-icon.png" style="width: 40px"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="width: 40px"/>
           </a>
           
           
