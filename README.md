@@ -49,7 +49,7 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" style="width: 40px"/>
           </a>
                               <a href="https://www.adobe.com/products/premiere.html" target="_blank">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" style="width: 40px"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" style="width: 40px"/>
           </a>
                               <a href="https://www.adobe.com/products/premiere.html" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="width: 40px"/>
