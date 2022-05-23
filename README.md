@@ -18,7 +18,7 @@
 
 ## Experiências:
 #### -Trabalhei como jovem aprendiz na Intelbras no ano de 2022.
-#### -Participei do programa Inova Senai passando da fase estadual e competindo na nacional.
+#### -Participei do programa Inova Senai passando da fase estadual e atualmente competindo na nacional.
 <br>
 
 ## Conhecimentos:
