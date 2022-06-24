@@ -22,6 +22,13 @@
 <br>
 
 ## Conhecimentos:
+<div style="width: 100vw;
+height: 100vh;
+background: #6C7A89;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;">
 <a href="https://www.adobe.com/products/premiere.html" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" style="width: 40px"/>
           </a>
@@ -64,7 +71,7 @@
                                         <a href="https://www.linux.org/" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="width: 40px"/>
           </a>
-          
+          </div>
           
   <br>
     <br>
