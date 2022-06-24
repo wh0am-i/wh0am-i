@@ -22,7 +22,7 @@
 <br>
 
 ## Conhecimentos:
-<div style="align-items: center;">
+<div style="justify-content: center;">
 <a href="https://www.adobe.com/products/premiere.html" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" style="width: 40px"/>
           </a>
