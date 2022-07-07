@@ -22,8 +22,8 @@
 <div style="align: center;">
 <div>
 <a href="https://www.adobe.com/products/premiere.html" target="_blank">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" style="width: 40px"/>
-          </a>
+            <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" style="width: 40px"/>
+          </a>-->
           <a href="https://www.adobe.com/br/products/photoshop.html" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="width: 40px"/>
           </a>
