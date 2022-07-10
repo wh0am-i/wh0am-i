@@ -1,4 +1,4 @@
-<h1>Whoami</h1>
+<h1 align="center">Who am i?</h1>
 <div align="center">
 <img src="Imagens/lolizin(3).png" > 
 </div>
