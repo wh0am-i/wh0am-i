@@ -3,7 +3,7 @@
 <img src="Imagens/lolizin(3).png" > 
 </div>
             <br>
-
+<h2>🚧 Human in development, wait for bugs 🚧</h2>
 <h4 align="center"> Meu nome é Pedro e tenho 16 anos, atualmente estou cursando o 2° ano do ensino médio com técnico integrado e realizando o curso de aprendizagem industrial em telecomunicações. </h4> 
 <br>
 
@@ -18,7 +18,7 @@
 <h4>  -Atualmente incubando a startup Techmind </h4> 
 <h4>  -Trabalhei como jovem aprendiz na Intelbras no ano de 2022. </h4> 
 <h4>  -Participei do programa Inova Senai passando da fase estadual e atualmente competindo na nacional. </h4> 
-<h4>  -Frontend Dev </h4> 
+<h4>  -Front-end Dev </h4> 
 <br>
 
 <h2 align="center"> Conhecimentos: </h2>
