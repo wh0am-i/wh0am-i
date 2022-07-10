@@ -4,7 +4,7 @@
 </div>
             <br>
 <h3 align="center">🚧 Human in development, wait for bugs 🚧</h2>
-<h4 align="center"> Meu nome é Pedro e tenho 16 anos, atualmente estou cursando o 2° ano do ensino médio com técnico integrado e realizando o curso de aprendizagem industrial em telecomunicações. </h4> 
+<h4 align="center"> Olá, meu nome é Pedro e tenho 16 anos, sou um entusiasta da tecnologia e robótica, gosto de passar o tempo programando e montando algum circuito aqui e ali </h4> 
 <br>
 
 
