@@ -15,8 +15,10 @@
 <br>
 
 <h2 align="center"> Experiências: </h2>
+<h4>  -Atualmente incubando a startup Techmind </h4> 
 <h4>  -Trabalhei como jovem aprendiz na Intelbras no ano de 2022. </h4> 
 <h4>  -Participei do programa Inova Senai passando da fase estadual e atualmente competindo na nacional. </h4> 
+<h4>  -Frontend Dev </h4> 
 <br>
 
 <h2 align="center"> Conhecimentos: </h2>
