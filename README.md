@@ -6,7 +6,7 @@
 
 <h4 align="center"> Meu nome é Pedro e tenho 16 anos, atualmente estou cursando o 2° ano do ensino médio com técnico integrado e realizando o curso de aprendizagem industrial em telecomunicações. </h4> 
 <br>
-<br>
+
 
 <h2 align="center"> Formação: </h2>
 <h4>  -Cursando 2° ano do Ensino Médio. </h4> 
