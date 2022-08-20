@@ -1,5 +1,5 @@
 <h1 align="center">Who am i?</h1>
-<div align="center">
+
 <div align="right">
 <a href="https://github.com/nonameeee6666">
 <img height="200em" width="700em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonameeee6666&layout=compact&langs_count=7&theme=aura"/>
@@ -7,6 +7,7 @@
 </div align="left">
 <img src="Imagens/lolizin(3).png" > 
 </div>
+<div align="center">
             <br>
 <h3 align="center">🚧 Human in development, wait for bugs 🚧</h2>
 <h4 align="center"> Olá, meu nome é Pedro e tenho 16 anos, sou um entusiasta da tecnologia e robótica e gosto de passar o tempo programando ou montando alguns circuitos por aí </h4> 
