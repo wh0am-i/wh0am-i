@@ -1,23 +1,40 @@
 <h1 align="center">Who am i?</h1>
 
+<div>
+<table>
+            <tbody>
+                        <tr>
+                        <td></td>
+                        <td/td>
+                        </tr>
+                        <tr>
+                        </tr>
+            </tbody>
 <div align="right">
 <a href="https://github.com/nonameeee6666">
 <img height="200em" width="700em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonameeee6666&layout=compact&langs_count=7&theme=aura"/>
 <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api?username=nonameeee6666&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-</div align="left">
+</div>
+<div align="left">
 <img src="Imagens/lolizin(3).png" > 
 </div>
-<div align="center">
-            <br>
+</div>
+            
+<br>
 <h3 align="center">🚧 Human in development, wait for bugs 🚧</h2>
 <h4 align="center"> Olá, meu nome é Pedro e tenho 16 anos, sou um entusiasta da tecnologia e robótica e gosto de passar o tempo programando ou montando alguns circuitos por aí </h4> 
 <br>
+<br>
+<!--
+<div align="center">
+centraliza tudo
+-->
 
-
-<h2 align="center"> Formação: </h2>
+<h2 align="center" > Formação: </h2>
 <h4>  -Cursando 2° ano do Ensino Médio. </h4> 
 <h4>  -Cursando aprendizagem industrial em Telecomunicações. </h4> 
 <h4>  -Cursando técnico em Desenvolvimento de Sistemas. </h4> 
+<br>
 <br>
 
 <h2 align="center"> Experiências: </h2>
@@ -26,10 +43,10 @@
 <h4>  -Participei do programa Inova Senai passando da fase estadual e atualmente competindo na nacional. </h4> 
 <h4>  -Front-end Dev </h4> 
 <br>
+<br>
 
 <h2 align="center"> Conhecimentos: </h2>
 <div align="center">
-<div>
 <a href="https://www.adobe.com/products/premiere.html" target="_blank">
             <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" style="width: 40px"/>
           </a>-->
