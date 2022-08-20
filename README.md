@@ -1,10 +1,10 @@
 <h1 align="center">Who am i?</h1>
 <div align="center">
-<div align="center">
+<div align="right">
 <a href="https://github.com/nonameeee6666">
 <img height="200em" width="700em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonameeee6666&layout=compact&langs_count=7&theme=aura"/>
 <img height="200em" width="400em" src="https://github-readme-stats.vercel.app/api?username=nonameeee6666&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-</div>
+</div align="right">
 <img src="Imagens/lolizin(3).png" > 
 </div>
             <br>
