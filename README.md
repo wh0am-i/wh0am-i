@@ -1,6 +1,4 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=nonameeee6666&&theme=xcode)
-
 <h1 align="center">Who am i?</h1>
 <img align="left" src="Imagens/lolizin(4).gif" width="40%"> 
 
@@ -21,14 +19,14 @@
 centraliza tudo
 -->
 
-<h2 align="center" > Formação: </h2>
+<h2 align="center" > 💼 Formação: </h2>
 <h4>  -Cursando 2° ano do Ensino Médio. </h4> 
 <h4>  -Cursando aprendizagem industrial em Telecomunicações. </h4> 
 <h4>  -Cursando técnico em Desenvolvimento de Sistemas. </h4> 
 <br>
 <br>
 
-<h2 align="center"> Experiências: </h2>
+<h2 align="center">  💾 Experiências: </h2>
 <h4>  -Atualmente incubando a startup Techmind </h4> 
 <h4>  -Trabalhei como jovem aprendiz na Intelbras no ano de 2022. </h4> 
 <h4>  -Participei do programa Inova Senai passando da fase estadual e atualmente competindo na nacional. </h4> 
@@ -36,7 +34,7 @@ centraliza tudo
 <br>
 <br>
 
-<h2 align="center"> Conhecimentos: </h2>
+<h2 align="center"> 💻 Conhecimentos: </h2>
 <div align="center">
 <a href="https://www.adobe.com/products/premiere.html" target="_blank">
             <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" style="width: 40px"/>
@@ -84,5 +82,7 @@ centraliza tudo
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="width: 40px"/>
           </a>-->
           </div> 
-  <br>
-  ![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=nonameeee6666&&theme=xcode)
+<br>
+<br>
+            
+![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=nonameeee6666&&theme=xcode)
