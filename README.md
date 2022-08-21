@@ -4,7 +4,7 @@
 <div align="right">
 <a href="https://github.com/nonameeee6666">
 <img height="195em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonameeee6666&layout=compact&langs_count=7&theme=aura"/>
-<img align="left" src="Imagens/lolizin(3).png"> 
+<img align="left" src="Imagens/lolizin(4).gif"> 
 <img height="200em" width="450em" src="https://github-readme-stats.vercel.app/api?username=nonameeee6666&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
 </div>
 
