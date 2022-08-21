@@ -1,7 +1,9 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=nonameeee6666&&theme=xcode)
 
 <h1 align="center">Who am i?</h1>
-<img align="left" src="Imagens/lolizin(4).gif" width="40%">    
+<img align="left" src="Imagens/lolizin(4).gif" width="40%"> 
+
 <div align="right">
 <a href="https://github.com/nonameeee6666">
 <img height="195em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonameeee6666&layout=compact&langs_count=7&theme=aura"/> 
@@ -81,9 +83,6 @@ centraliza tudo
                                        <!--   <a href="https://www.linux.org/" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="width: 40px"/>
           </a>-->
-          </div>
-          
+          </div> 
   <br>
-    <br>
-    <br>
- [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=nonameeee6666&&theme=xcode)](https://github.com/rishavchanda)
+  ![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=nonameeee6666&&theme=xcode)
