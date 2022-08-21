@@ -1,11 +1,12 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Who am i?</h1>
-<img align="left" src="Imagens/lolizin(4).gif" width="40%"> 
+<img align="left" src="Imagens/gif final.gif"> 
 
-<div align="right">
-<a href="https://github.com/nonameeee6666">
-<img height="195em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonameeee6666&layout=compact&langs_count=7&theme=aura"/> 
-<img height="200em" width="450em" src="https://github-readme-stats.vercel.app/api?username=nonameeee6666&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+<h1 align="center">Who am i?</h1>
+<!-- <img align="left" src="Imagens/lolizin(4).gif" width="40%"> loli gif-->
+
+<div align="center">
+<a href="https://github.com/wh0am-i">
+<img height="200em" width="327em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wh0am-i&layout=compact&langs_count=7&theme=aura"/> 
+<img height="200em" width="450em" src="https://github-readme-stats.vercel.app/api?username=wh0am-i&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
 </div>
 
             
@@ -85,4 +86,4 @@ centraliza tudo
 <br>
 <br>
             
-![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=nonameeee6666&&theme=xcode)
+![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=wh0am-i&theme=xcode)
