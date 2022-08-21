@@ -1,6 +1,5 @@
 <img align="left" src="Imagens/gif final.gif"> 
 
-<h1 align="center">Who am i?</h1>
 <!-- <img align="left" src="Imagens/lolizin(4).gif" width="40%"> loli gif-->
 
 <div align="center">
