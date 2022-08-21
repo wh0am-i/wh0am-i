@@ -1,10 +1,10 @@
-<h1 align="center">Who am i?</h1>
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
+<h1 align="center">Who am i?</h1>
+<img align="left" src="Imagens/lolizin(4).gif" width="40%">    
 <div align="right">
 <a href="https://github.com/nonameeee6666">
-<img height="195em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonameeee6666&layout=compact&langs_count=7&theme=aura"/>
-<img align="left" src="https://i0.wp.com/i.imgur.com/3OwPWt1.gif?resize=631%2C355">    
+<img height="195em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonameeee6666&layout=compact&langs_count=7&theme=aura"/> 
 <img height="200em" width="450em" src="https://github-readme-stats.vercel.app/api?username=nonameeee6666&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
 </div>
 
