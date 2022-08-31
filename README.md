@@ -11,7 +11,7 @@
             
 <br>
 <h3 align="center">🚧 Human in development, wait for bugs 🚧</h2>
-<h4 align="center"> Olá, meu nome é Pedro e tenho 16 anos, sou um entusiasta da programação, robótica e gosto de passar o tempo programando ou montando alguns circuitos por aí </h4> 
+<h4 align="center"> Olá, meu nome é Pedro e tenho 16 anos, sou um entusiasta da programação, robótica e modelagem 3d. Sempre fui um curiosos por natureza, assim, procuro saber como as "coisas" funcionam, se não funcionar ou não existir, eu mesmo crio, para mim o impossível é só questão de opinião. Costumo passar o tempo programando ou montando alguns circuitos por aí. </h4> 
 <br>
 <br>
 <!--
@@ -27,10 +27,11 @@ centraliza tudo
 <br>
 
 <h2 align="center">  💾 Experiências: </h2>
-<h4>  -Atualmente incubando a startup Techmind </h4> 
-<h4>  -Trabalhei como jovem aprendiz na Intelbras no ano de 2022. </h4> 
-<h4>  -Participei do programa Inova Senai passando da fase estadual e atualmente competindo na nacional. </h4> 
-<h4>  -Front-end Dev </h4> 
+<h4>  -Atualmente incubando a Techmind </h4> 
+<h4>  -Trabalhando como jovem aprendiz na Intelbras no setor de redes da remanufatura IND. </h4> 
+<h4>  -Participando do programa Inova Senai na fase nacional, atuando na área de eletrônica, programação e modelagem 3d.. </h4> 
+<h4>  -Front-end Dev Jr.</h4>
+<h4>  -Java Dev </h4> 
 <br>
 <br>
 
