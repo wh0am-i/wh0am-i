@@ -4,8 +4,8 @@
 
 <div align="center">
 <a href="https://github.com/wh0am-i">
-<img height="200em" width="327em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wh0am-i&layout=compact&langs_count=7&theme=aura"/> 
-<img height="200em" width="450em" src="https://github-readme-stats.vercel.app/api?username=wh0am-i&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+<img height="200em" width="320em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wh0am-i&layout=compact&langs_count=7&theme=aura"/> 
+<img height="200em" width="440em" src="https://github-readme-stats.vercel.app/api?username=wh0am-i&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
 </div>
 
             
