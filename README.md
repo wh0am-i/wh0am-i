@@ -82,6 +82,9 @@ centraliza tudo
                                        <!--   <a href="https://www.linux.org/" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="width: 40px"/>
           </a>-->
+           <a href="https://git-scm.com/" target="_blank">
+            <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" style="width: 40px"/>
+          </a>
           </div> 
 <br>
 <br>
