@@ -1,4 +1,4 @@
-<img align="left" src="Imagens/gif final.gif"> 
+<img align="left" src="Imagens/final.gif"> 
 
 <!-- <img align="left" src="Imagens/lolizin(4).gif" width="40%"> loli gif-->
 
