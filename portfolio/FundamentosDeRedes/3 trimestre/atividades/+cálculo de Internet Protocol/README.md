@@ -5,6 +5,7 @@
 ### b) 192.168.0.221/28, 192.168.0.222/28 e 192.168.0.223/28
 ### c) 192.168.0.127/28, 192.168.0.126/28 e 192.168.0.125/28
 ### a) 192.168.0.124/28, 192.168.0.125/28 e 192.168.0.126/28
+### Justificativa: Atividade importante para relembrar os cálculos de IP e fixar melhor 
 <br>
 
 # 2°
@@ -14,3 +15,4 @@
 ### Entregue um documento com os gráficos, especificando a qual ambiente cada gráfico se refere e onde ficam os roteadores naquele ambiente.
 
 ### <a href="https://www.figma.com/file/N5h8yXUowdM2OOYODgtXJf/Mapa-de-internet---NetSpot?node-id=0%3A1&t=pJ51ducPSYD0GXPJ-1">Atividade</a>
+### Justificativa: Começo do aprendizado de ondas, wi-fi e intensidade de sinal
