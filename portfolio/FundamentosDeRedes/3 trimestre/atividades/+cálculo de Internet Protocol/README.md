@@ -1,4 +1,4 @@
-#1°
+# 1°
 ## Atividade do dia 18 de nov.
 ### IoT está cada vez mais em alta, muitas pessoas utilizam IoT para automatizar funções básicas e rotineiras do dia a dia, o que traz facilidade e pode melhorar o dia a dia das pessoas. Considerando que estou colocando meu ar condicionado, forno e cortinas com comandos por IoT, qual das alternativas abaixo representa IPs possíveis?
 ### a) 192.168.0.0/28, 192.168.0.1/28 e 192.168.0.2/28
