@@ -24,9 +24,9 @@ centraliza tudo
 -->
 
 <h2 align="center" > 💼 Formação: </h2>
-<h4>  -Cursando 2° ano do Ensino Médio. </h4> 
-<h4>  -Cursando aprendizagem industrial em Telecomunicações. </h4> 
-<h4>  -Cursando técnico em Desenvolvimento de Sistemas. </h4> 
+<h4>  -Cursando 3° ano do Ensino Médio 🏃‍ </h4>  
+<h4>  -Cursando técnico em Desenvolvimento de Sistemas 🏃‍ </h4> 
+<h4>  -Aprendizagem Industrial em Telecomunicações concluída ✔ </h4>
 <br>
 <br>
 
