@@ -97,6 +97,4 @@ centraliza tudo
           </a>
           </div> 
 <br>
-<br>
-            
-![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=wh0am-i&theme=xcode)
+<br>          
