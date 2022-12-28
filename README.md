@@ -4,8 +4,12 @@
 
 <div align="center">
 <a href="https://github.com/wh0am-i">
-<img height="200em" width="320em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wh0am-i&layout=compact&langs_count=7&theme=aura"/> 
-<img height="200em" width="440em" src="https://github-readme-stats.vercel.app/api?username=wh0am-i&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+            
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wh0am-i&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wh0am-i&hide=Html&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wh0am-i&theme=tokyonight) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wh0am-i&theme=tokyonight) | ![](https://github-readme-streak-stats.herokuapp.com/?user=wh0am-i&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=38BDAE&ring=BE90F3&fire=3786FC&currStreakNum=fff&sideNums=BE90F3&currStreakLabel=38BDAE&sideLabels=fff&dates=fff) |
+| :-: | :-: |
 </div>
 
             
