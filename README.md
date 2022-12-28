@@ -26,14 +26,14 @@ centraliza tudo
 <h2 align="center" > 💼 Formação: </h2>
 <h4>  -Cursando 3° ano do Ensino Médio 🏃‍ </h4>  
 <h4>  -Cursando técnico em Desenvolvimento de Sistemas 🏃‍ </h4> 
-<h4>  -Aprendizagem Industrial em Telecomunicações concluída ✔ </h4>
+<h4>  -Aprendizagem Industrial em Telecomunicações finalizado ✔ </h4>
 <br>
 <br>
 
 <h2 align="center">  💾 Experiências: </h2>
-<h4>  -Atualmente incubando a Techmind. </h4> 
-<h4>  -Trabalhando como jovem aprendiz na Intelbras no setor de redes da remanufatura IND. </h4> 
-<h4>  -Participando do programa Inova Senai na fase nacional, atuando na área de eletrônica, programação e modelagem 3d. </h4> 
+<h4>  -Incubação da Techmind em 2022 🧠 </h4> 
+<h4>  -Trabalhando como jovem aprendiz na Intelbras no setor de redes da remanufatura IND 🏭 </h4> 
+<h4>  -Participando do programa Inova Senai na fase nacional, atuando na área de eletrônica, programação e modelagem 3d 🤖 </h4> 
 <br>
 <br>
 
@@ -41,8 +41,8 @@ centraliza tudo
 <h4>  -Front-end Dev Jr.</h4>
 <h4>  -Java Dev </h4>
 <h4> -Python Dev </h4>
-<h4>-Noções em Linux e linguagem bash.</h4>
-<h4>-Noções em C++.</h4>
+<h4>-Aprendendo Linux e linguagem bash.</h4>
+<h4>-Aprendendo C++.</h4>
 
 
 <h2 align="center"> 🛠 Ferramentas: </h2>
