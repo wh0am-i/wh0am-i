@@ -44,7 +44,7 @@ centraliza tudo
 <h4>  -Java Dev </h4>
 <h4> -Python Dev </h4>
 <h4>-Noções em Linux e linguagem bash.</h4>
-<h4>-Noçoes em C++.</h4>
+<h4>-Noções em C++.</h4>
 
 
 <h2 align="center"> 🛠 Ferramentas: </h2>
