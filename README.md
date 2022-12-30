@@ -1,5 +1,7 @@
-<img align="left" src="Imagens/final.gif"> 
-
+<div align="center">
+<img src="Imagens/final.gif"> 
+</div>
+            
 <!-- <img align="left" src="Imagens/lolizin(4).gif" width="40%"> loli gif-->
 
 <div align="center">
