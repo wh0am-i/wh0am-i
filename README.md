@@ -17,7 +17,7 @@
             
 <br>
 <h3 align="center">🚧 Human in development, wait for bugs 🚧</h2>
-<h4 align="center"> Olá, meu nome é Pedro e tenho 17 anos, sou um entusiasta da programação, robótica e modelagem 3d. Sempre fui um curioso por natureza, assim, procuro saber como as "coisas" funcionam, se não funcionar ou não existir, eu mesmo crio, para mim o impossível é só questão de opinião. Costumo passar o tempo programando ou montando alguns circuitos por aí. </h4> 
+<h4 align="center"> Olá, meu nome é Pedro e tenho 17 anos, sou um entusiasta da programação, robótica e modelagem 3d. Sempre fui um curioso por natureza, assim, procuro saber como as "coisas" funcionam, se não funcionar ou não existir, eu mesmo crio, para mim o impossível é só questão de opinião. Costumo passar o tempo programando ou montando alguns circuitos. </h4> 
 <br>
 <br>
 <!--
