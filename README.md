@@ -40,9 +40,9 @@ centraliza tudo
 <br>
 
 <h2 align="center"> 💻 Conhecimentos: </h2>
-<h4>  -Front-end Dev Jr.</h4>
-<h4>  -Java Dev </h4>
-<h4> -Python Dev </h4>
+<h4>  -Java Dev Jr.</h4>
+<h4>  -Python Dev Jr.</h4>
+<h4>  -Front-end Dev Jr.</h4>            
 <h4>-Noções em Linux e linguagem bash.</h4>
 <h4>-Noções em C++.</h4>
 
