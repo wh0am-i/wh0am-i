@@ -34,8 +34,8 @@ centraliza tudo
 
 <h2 align="center">  💾 Experiências: </h2>
 <h4>  -Incubação da Techmind em 2022 🧠 </h4> 
-<h4>  -Trabalhando como jovem aprendiz na Intelbras no setor de redes da remanufatura IND 🏭 </h4> 
-<h4>  -Participando do programa Inova Senai na fase nacional, atuando na área de eletrônica, programação e modelagem 3d 🤖 </h4> 
+<h4>  -Trabalhei como jovem aprendiz na Intelbras no setor de redes da remanufatura IND 🏭 </h4> 
+<h4>  -Participei do programa Inova Senai na fase nacional, atuando na área de eletrônica, programação e modelagem 3d 🤖 </h4> 
 <br>
 <br>
 
