@@ -64,9 +64,9 @@ centraliza tudo
           <a href="https://java.com/" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="width: 40px"/>
           </a>
-                                        <a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank" align="center">
+                                      <!--  <a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank" align="center">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" style="width: 40px"/>
-          </a>
+          </a> -->
                               <a href="https://www.python.org/" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="width: 40px"/>
           </a>
