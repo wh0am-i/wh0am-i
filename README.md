@@ -36,14 +36,15 @@ centraliza tudo
 <h4>  -Incubação da Techmind em 2022 🧠 </h4> 
 <h4>  -Trabalhei como jovem aprendiz na Intelbras no setor de redes da remanufatura IND 🏭 </h4> 
 <h4>  -Participei do programa Inova Senai na fase estadual e nacional de 2021 à 2022, atuando na área de eletrônica, programação e modelagem 3d 🤖 </h4> 
-<h4>  -Participei de diversos eventos de tecnologia, dentre eles o DSPI 2022, Innovation Camp 2022 e Hackathon de Tecnologia 2023 🥇</h4> 
+<h4>  -Participei de diversos eventos de tecnologia, dentre eles o DSPI 2022, Innovation Camp 2022, GP de Inovação 2022 e Hackathon de Tecnologia 2023 🥇</h4> 
 <br>
 <br>
 
 <h2 align="center"> 💻 Conhecimentos: </h2>
 <h4>  -Java Dev Jr.</h4>
 <h4>  -Python Dev Jr.</h4>
-<h4>  -Front-end Dev Jr.</h4>            
+<h4>  -Front-end Dev Jr.</h4>
+<h4>  -Back-end Dev Jr.</h4>
 <h4>-Noções em Linux e linguagem bash.</h4>
 <h4>-Noções em C++.</h4>
 
