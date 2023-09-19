@@ -45,8 +45,8 @@ centraliza tudo
 <h4>  -Python Dev Jr.</h4>
 <h4>  -Front-end Dev Jr.</h4>
 <h4>  -Back-end Dev Jr.</h4>
-<h4>-Noções em Linux e linguagem bash.</h4>
-<h4>-Noções em C++.</h4>
+<h4>  -Noções em Linux e linguagem bash.</h4>
+<h4>  -Noções em Arduino e eletrônica.</h4>
 
 
 <h2 align="center"> 🛠 Ferramentas: </h2>
@@ -75,20 +75,17 @@ centraliza tudo
           <a href="https://www.javascript.com/" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="width: 40px"/>
           </a>
+                      <a href="https://react.dev/" target="_blank">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" style="width: 40px"/>
+          </a>
                                         <a href="https://pt.wikipedia.org/wiki/Bash" target="_blank" align="center">
             <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg" style="width: 40px"/>
           </a>
-                                                          <!--  <a href="https://www.lua.org/" target="_blank">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" style="width: 40px"/>
-          </a>-->
           <a href="https://www.arduino.cc/" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" style="width: 40px"/>
           </a>
-                    <a href="https://www.raspberrypi.org/" target="_blank">
+                 <!--   <a href="https://www.raspberrypi.org/" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" style="width: 40px"/>
-          </a>
-                          <!--    <a href="https://www.blender.org/" target="_blank">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" style="width: 40px"/>
           </a>-->
                                    <!--               <a href="https://twotrees3d.com/" target="_blank" align="center">
             <img src="https://twotrees3d.com/wp-content/uploads/2021/05/two-trees-white-300x165.png" style="width: 40px"/>
