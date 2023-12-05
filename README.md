@@ -45,8 +45,8 @@ centraliza tudo
 <h4>  -Java Dev Jr.</h4>
 <h4>  -Python Dev Jr.</h4>
 <h4>  -Full Stack Dev Jr.</h4>
-<h4>  -Noções em Linux e linguagem bash.</h4>
-<h4>  -Noções em Arduino e eletrônica.</h4>
+<h4>  -Amante de Linux e shell script.</h4>
+<h4>  -Amante de Arduino e eletrônica.</h4>
 
 
 <h2 align="center"> 🛠 Ferramentas: </h2>
