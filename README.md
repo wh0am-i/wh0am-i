@@ -27,7 +27,7 @@ centraliza tudo
 
 <h2 align="center" > 💼 Formação: </h2>
 <h4>  -Técnico em Desenvolvimento de Sistemas ✔ </h4> 
-<h4>  -Aprendizagem Industrial em Telecomunicações finalizado ✔ </h4>
+<h4>  -Aprendizagem Industrial em Telecomunicações ✔ </h4>
 <br>
 <br>
 
