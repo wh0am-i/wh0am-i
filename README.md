@@ -1,29 +1,22 @@
 <div align="center">
-<img src="Imagens/final.gif"> 
+    <img src="Imagens/final.gif"> 
 </div>
-            
-<!-- <img align="left" src="Imagens/lolizin(4).gif" width="40%"> loli gif-->
 
 <div align="center">
-<a href="https://github.com/wh0am-i">
-            
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wh0am-i&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wh0am-i&hide=Html&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wh0am-i&theme=tokyonight) |
-| :-: | :-: | :-: |
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wh0am-i&theme=tokyonight) | ![](https://github-readme-streak-stats.herokuapp.com/?user=wh0am-i&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=38BDAE&ring=BE90F3&fire=3786FC&currStreakNum=fff&sideNums=BE90F3&currStreakLabel=38BDAE&sideLabels=fff&dates=fff) |
-| :-: | :-: |
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wh0am-i&theme=tokyonight" height="170" style="display:inline-block; margin: 0 10;"> 
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wh0am-i&hide=Html&theme=tokyonight" height="170" style="display:inline-block; margin: 0 10;"> 
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wh0am-i&theme=tokyonight" height="170" style="display:inline-block; margin: 0 10;">
 </div>
 
-            
+<div align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wh0am-i&theme=tokyonight" height="170" style="display:inline-block; margin: 0 10;"> 
+</div>
+
 <br>
 <h2 align="center">/*When harpoons, air strikes and nukes fails*/</h2>
 <h4 align="center"> Olá, meu nome é Pedro e tenho 18 anos, sou um entusiasta da programação, robótica e modelagem 3d. Sempre fui um curioso por natureza, assim, procuro saber como as "coisas" funcionam, se não funcionar ou não existir, eu mesmo crio, para mim o impossível é só questão de opinião. Costumo passar o tempo programando ou montando alguns circuitos. </h4> 
 <br>
 <br>
-<!--
-<div align="center">
-centraliza tudo
--->
 
 <h2 align="center" > 💼 Formação: </h2>
 <h4>  -Técnico em Desenvolvimento de Sistemas ✔ </h4> 
@@ -46,58 +39,22 @@ centraliza tudo
 <h4>  -Full Stack Dev Jr.</h4>
 <h4>  -Amante de Linux e shell script.</h4>
 <h4>  -Amante de Arduino e eletrônica.</h4>
-
+<br>
+<br>
 
 <h2 align="center"> 🛠 Ferramentas: </h2>
 <div align="center">
-<a href="https://www.adobe.com/products/premiere.html" target="_blank">
-            <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" style="width: 40px"/>
-          </a>-->
-          <a href="https://www.adobe.com/br/products/photoshop.html" target="_blank">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="width: 40px"/>
-          </a>
-                    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" style="width: 40px"/>
-          </a>
-          <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" style="width: 40px"/>
-          </a>
-          <a href="https://java.com/" target="_blank">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="width: 40px"/>
-          </a>
-                                      <!--  <a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank" align="center">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" style="width: 40px"/>
-          </a> -->
-                              <a href="https://www.python.org/" target="_blank">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="width: 40px"/>
-          </a>
-          <a href="https://www.javascript.com/" target="_blank">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="width: 40px"/>
-          </a>
-                      <a href="https://react.dev/" target="_blank">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" style="width: 40px"/>
-          </a>
-                                        <a href="https://pt.wikipedia.org/wiki/Bash" target="_blank" align="center">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg" style="width: 40px"/>
-          </a>
-          <a href="https://www.arduino.cc/" target="_blank">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" style="width: 40px"/>
-          </a>
-                 <!--   <a href="https://www.raspberrypi.org/" target="_blank">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" style="width: 40px"/>
-          </a>-->
-                                   <!--               <a href="https://twotrees3d.com/" target="_blank" align="center">
-            <img src="https://twotrees3d.com/wp-content/uploads/2021/05/two-trees-white-300x165.png" style="width: 40px"/>
-          </a>-->
-                                       <!--   <a href="https://www.linux.org/" target="_blank">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="width: 40px"/>
-          </a>-->
-           <a href="https://git-scm.com/" target="_blank">
-            <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" style="width: 40px"/>
-          </a>
-           <a href="https://www.postgresql.org/" target="_blank">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" style="width: 40px"/>
-          </a>
-          </div> 
+    <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/>
+    <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
+    <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
+    <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+    <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+    <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+    <img style="width: 40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/>
+    <img style="width: 40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg"/>
+    <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
+    <img style="width: 40px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/>
+    <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>
+</div>
 <br>
-<br>          
+<br>
