@@ -3,9 +3,9 @@
 </div>
 
 <div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wh0am-i&theme=tokyonight" height="170" style="display:inline-block; margin: 0 10;"> 
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wh0am-i&hide=Html&theme=tokyonight" height="170" style="display:inline-block; margin: 0 10;"> 
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wh0am-i&theme=tokyonight" height="170" style="display:inline-block; margin: 0 10;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wh0am-i&theme=tokyonight" height="150" style="display:inline-block; margin: 0 10;"> 
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wh0am-i&hide=Html&theme=tokyonight" height="150" style="display:inline-block; margin: 0 10;"> 
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wh0am-i&theme=tokyonight" height="150" style="display:inline-block; margin: 0 10;">
 </div>
 
 <div align="center">
