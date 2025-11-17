@@ -14,11 +14,11 @@
 
 <br>
 <h2 align="center">/*When harpoons, air strikes and nukes fails*/</h2>
-<h4 align="center"> Olá, sou um entusiasta da programação, eletrônica e mecânica. Sempre procurei saber como tudo funciona, se não funcionar ou não existir, vou atrás da solução. Costumo passar o tempo programando, montando alguns circuitos ou criando projetos. </h4> 
+<h4 align="center"> Hi! I'm really into programming, electronics, and mechanics. I've always been the kind of person who wants to know how everything works, and if something doesn’t work or doesn't even exist yet, I go after a solution. I usually spend my time coding, building circuits, or coming up with new projects. </h4> 
 <br>
 <br>
 
-<h2 align="center"> 🛠 Ferramentas: </h2>
+<h2 align="center"> 🛠 Tools: </h2>
 <div align="center">
     <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/>
     <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
