@@ -26,8 +26,8 @@
     <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
     <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
     <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-    <img style="width: 40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/>
-    <img style="width: 40px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg"/>
+    <!-- <img style="width: 40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"/> -->
+    <img style="width: 40px" src="https://www.svgrepo.com/show/353478/bash-icon.svg"/>
     <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
     <img style="width: 40px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/>
     <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>
