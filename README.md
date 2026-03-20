@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="Imagens/fundo.gif"> 
+    <img src="Imagens/fundo1 (2).gif"> 
 </div>
 
 <div align="center">
